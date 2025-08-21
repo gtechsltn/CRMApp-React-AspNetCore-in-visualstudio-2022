@@ -30,6 +30,21 @@ A full-stack CRM (Customer Relationship Management) demo application built with 
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/crmlogin.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add User Form
+![Add User](screenshots/adduser.png)
+
+### Register Page
+![Register Page](screenshots/crmregister.png)
+
+
 ## Prerequisites
 
 - [.NET 7 SDK or later](https://dotnet.microsoft.com/en-us/download)
