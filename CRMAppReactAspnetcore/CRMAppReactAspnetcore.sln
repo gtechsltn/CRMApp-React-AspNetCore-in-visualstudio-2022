@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "crmappreactaspnetcore.client", "crmappreactaspnetcore.client\crmappreactaspnetcore.client.esproj", "{E85519B9-C6A9-1474-96D4-A39DF3C836C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMAppReactAspnetcore.Server", "CRMAppReactAspnetcore.Server\CRMAppReactAspnetcore.Server.csproj", "{29AD3C8A-2A9E-4443-81DA-7BD4C9CE39B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85519B9-C6A9-1474-96D4-A39DF3C836C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85519B9-C6A9-1474-96D4-A39DF3C836C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85519B9-C6A9-1474-96D4-A39DF3C836C4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E85519B9-C6A9-1474-96D4-A39DF3C836C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85519B9-C6A9-1474-96D4-A39DF3C836C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85519B9-C6A9-1474-96D4-A39DF3C836C4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{29AD3C8A-2A9E-4443-81DA-7BD4C9CE39B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AD3C8A-2A9E-4443-81DA-7BD4C9CE39B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AD3C8A-2A9E-4443-81DA-7BD4C9CE39B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AD3C8A-2A9E-4443-81DA-7BD4C9CE39B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290C3A78-9F70-4370-8EC4-C1E85138C8F1}
+	EndGlobalSection
+EndGlobal
