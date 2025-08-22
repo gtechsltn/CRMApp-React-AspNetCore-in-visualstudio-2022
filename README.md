@@ -130,7 +130,7 @@ Project Structure
 │   ├── /Models                         # Database Models
 │   ├── /Services                       # Business logic, token generation, etc.
 │   └── Program.cs / Startup.cs         # App setup and middleware
-└── README.md                          # This file
+└── README.md                           # This file
 
 Security
 
